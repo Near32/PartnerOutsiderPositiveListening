@@ -1,0 +1,376 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Leo": 98.4,
+    "Seller Raj": 82.58,
+    "Seller Ana": 83.5
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.0,
+    "Buyer Kit": 81.83,
+    "Buyer Tara": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Raj",
+      "price": 83.79
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Likely too early to read much into the last few trades.",
+    "Seller Leo": "Good morning everyone, looking forward to a productive session.",
+    "Seller Ana": "Good morning, sellers. May the best prices prevail."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Raj": 83.0,
+    "Seller Leo": 83.0,
+    "Seller Ana": 83.0
+  },
+  "buyer_bids": {
+    "Buyer Tara": 83.5,
+    "Buyer Kit": 83.5,
+    "Buyer Amir": 83.5
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Ana",
+      "price": 83.25
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Leo",
+      "price": 83.25
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Raj",
+      "price": 83.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Some buyers seem more active than others this hour.",
+    "Seller Leo": "Adjusting ask to reflect current bid levels. Good luck to all.",
+    "Seller Ana": "Early moves are setting a tone for the session. Let's see how the market develops."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Raj": 85.0,
+    "Seller Leo": 83.0,
+    "Seller Ana": 83.5
+  },
+  "buyer_bids": {
+    "Buyer Tara": 82.0,
+    "Buyer Kit": 83.0,
+    "Buyer Amir": 82.8
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Leo",
+      "price": 83.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Sounds like a quiet hour on the exchange.",
+    "Seller Leo": "Quiet open this hour. Let's see who sets the pace.",
+    "Seller Ana": "Market seems quiet after last hour's activity. Adjusting slightly upward to see if buyers return. Good luck."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Raj": 82.8,
+    "Seller Leo": 83.0,
+    "Seller Ana": 82.8
+  },
+  "buyer_bids": {
+    "Buyer Tara": 83.5,
+    "Buyer Kit": 82.9,
+    "Buyer Amir": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Ana",
+      "price": 83.15
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Raj",
+      "price": 82.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Seemingly, buyers are taking their time today.",
+    "Seller Leo": "Another quiet hour; market still finding its level. Watch for buyer movement.",
+    "Seller Ana": "Another hour, another opportunity. Let's see if buyers bite at these levels."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Raj": 82.9,
+    "Seller Leo": 83.0,
+    "Seller Ana": 82.9
+  },
+  "buyer_bids": {
+    "Buyer Tara": 83.0,
+    "Buyer Kit": 82.9,
+    "Buyer Amir": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Ana",
+      "price": 82.95
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Raj",
+      "price": 82.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Lately, some buyers seem more active than others this hour.",
+    "Seller Leo": "Another slow hour. Hoping buyers show more activity soon.",
+    "Seller Ana": "Market seems stable; let's see if this price level encourages more buyer activity."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Raj": 82.9,
+    "Seller Leo": 82.9,
+    "Seller Ana": 82.9
+  },
+  "buyer_bids": {
+    "Buyer Tara": 82.95,
+    "Buyer Kit": 82.95,
+    "Buyer Amir": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Ana",
+      "price": 82.95
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Leo",
+      "price": 82.93
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Raj",
+      "price": 82.93
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Lately, some buyers seem more active than others this hour.",
+    "Seller Leo": "Adjusting ask to reflect current market activity. Let's see if this creates a trade.",
+    "Seller Ana": "Setting ask at bid level to encourage trade this hour."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Raj": 82.95,
+    "Seller Leo": 82.85,
+    "Seller Ana": 82.9
+  },
+  "buyer_bids": {
+    "Buyer Tara": 82.85,
+    "Buyer Kit": 82.9,
+    "Buyer Amir": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Leo",
+      "price": 82.92
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Ana",
+      "price": 82.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Looking at it since the open, the trade history has been easy to follow.",
+    "Seller Leo": "Adjusting ask to reflect current market conditions.",
+    "Seller Ana": "Setting ask at $82.9 to match prevailing market price."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Raj": 82.84,
+    "Seller Leo": 82.82,
+    "Seller Ana": 82.9
+  },
+  "buyer_bids": {
+    "Buyer Tara": 82.95,
+    "Buyer Kit": 82.88,
+    "Buyer Amir": 82.95
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Leo",
+      "price": 82.88
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Raj",
+      "price": 82.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Likely too early to read much into the last few trades.",
+    "Seller Leo": "Adjusting ask to reflect competitive dynamics in the order book.",
+    "Seller Ana": "Setting ask at $82.90 to match current market conditions."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Raj": 82.9,
+    "Seller Leo": 82.81,
+    "Seller Ana": 82.88
+  },
+  "buyer_bids": {
+    "Buyer Tara": 82.9,
+    "Buyer Kit": 82.9,
+    "Buyer Amir": 82.9
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Leo",
+      "price": 82.86
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Ana",
+      "price": 82.89
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Raj",
+      "price": 82.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "So, the bid queue looks thin this hour.",
+    "Seller Leo": "Lowering ask slightly to $82.81 to stay competitive with current bids.",
+    "Seller Ana": "Slight adjustment to match current bid. Continuing to trade actively."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Raj": 82.88,
+    "Seller Leo": 82.81,
+    "Seller Ana": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Tara": 82.85,
+    "Buyer Kit": 82.95,
+    "Buyer Amir": 82.9
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Leo",
+      "price": 82.88
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Ana",
+      "price": 82.88
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Still too early to read much into the last few trades.",
+    "Seller Leo": "Final hour – let's finish with strong, profitable trades.",
+    "Seller Ana": "Lowering ask slightly to attract any remaining bids. Let's hope for a trade."
+  },
+  "buyer_messages": {}
+}
+````

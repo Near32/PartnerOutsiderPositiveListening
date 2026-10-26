@@ -1,0 +1,16 @@
+# Python 3.12. Core pipeline (analysis, replays, harness):
+openai>=1.60
+anthropic>=0.45
+jinja2>=3.1
+pydantic>=2.10
+backoff>=2.2
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.9
+tqdm>=4.66
+pyyaml>=6.0
+pytest>=8.0
+google-cloud-aiplatform>=1.71   # imported by the harness's model wrappers
+wandb>=0.19                     # imported by the harness; disabled in our runs
+# Only to regenerate paraphrases not already cached (tools/hf_server.py, needs a GPU):
+# torch, transformers>=4.57, accelerate

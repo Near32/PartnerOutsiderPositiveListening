@@ -1,0 +1,7 @@
+{
+  "identity_or_same_template_called_same": 0.8125,
+  "n_same": 16,
+  "different_templates_called_different": 0.9642857142857143,
+  "n_different": 56,
+  "usable": true
+}

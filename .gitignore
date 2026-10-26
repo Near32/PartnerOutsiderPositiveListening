@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+harness/
+data/prompts/
+data/diffs/
+data/*.partial.jsonl
+data/hf_server.log
+**/archive/
+followups/c0prime/data/prompts/
+followups/c0prime/data/diffs/
+ledger.csv

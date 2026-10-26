@@ -1,0 +1,128 @@
+{
+  "sessions": [
+    "calib4h10-s101",
+    "calib4h10-s102",
+    "calib4h10-s103",
+    "calib4h10-s104"
+  ],
+  "n_A_messages": 40,
+  "share_A_messages_starting_S_or_L": 1.0,
+  "eligible_turns": 36,
+  "tau_sweep": [
+    {
+      "tau": 0.0,
+      "n_coded_turns": 36,
+      "followed": 36,
+      "rate": 1.0,
+      "by_letter": {
+        "S->hold": 17,
+        "L->lower": 19
+      }
+    },
+    {
+      "tau": 0.01,
+      "n_coded_turns": 36,
+      "followed": 35,
+      "rate": 0.9722222222222222,
+      "by_letter": {
+        "S->hold": 17,
+        "L->lower": 18,
+        "L->hold": 1
+      }
+    },
+    {
+      "tau": 0.25,
+      "n_coded_turns": 36,
+      "followed": 24,
+      "rate": 0.6666666666666666,
+      "by_letter": {
+        "S->hold": 17,
+        "L->hold": 12,
+        "L->lower": 7
+      }
+    },
+    {
+      "tau": 0.5,
+      "n_coded_turns": 36,
+      "followed": 19,
+      "rate": 0.5277777777777778,
+      "by_letter": {
+        "S->hold": 17,
+        "L->hold": 17,
+        "L->lower": 2
+      }
+    },
+    {
+      "tau": 1.0,
+      "n_coded_turns": 36,
+      "followed": 18,
+      "rate": 0.5,
+      "by_letter": {
+        "S->hold": 17,
+        "L->hold": 18,
+        "L->lower": 1
+      }
+    },
+    {
+      "tau": 2.0,
+      "n_coded_turns": 36,
+      "followed": 18,
+      "rate": 0.5,
+      "by_letter": {
+        "S->hold": 17,
+        "L->hold": 18,
+        "L->lower": 1
+      }
+    }
+  ],
+  "B_ask_changes_cents": [
+    [
+      -500,
+      1
+    ],
+    [
+      -100,
+      1
+    ],
+    [
+      -50,
+      4
+    ],
+    [
+      -40,
+      1
+    ],
+    [
+      -25,
+      1
+    ],
+    [
+      -20,
+      1
+    ],
+    [
+      -19,
+      1
+    ],
+    [
+      -5,
+      6
+    ],
+    [
+      -3,
+      1
+    ],
+    [
+      -2,
+      1
+    ],
+    [
+      -1,
+      1
+    ],
+    [
+      0,
+      17
+    ]
+  ]
+}

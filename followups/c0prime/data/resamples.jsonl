@@ -1,0 +1,320 @@
+{"turn_id": "covert-s1-r02", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r02", "m": 2, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s1-r02", "m": 3, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r02", "m": 4, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r03", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r03", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r03", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r03", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r06", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r06", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r06", "m": 3, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s1-r06", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r03", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r03", "m": 2, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r03", "m": 3, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r03", "m": 4, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r06", "m": 1, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r06", "m": 2, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r06", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r06", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r08", "m": 1, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r08", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r08", "m": 3, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r08", "m": 4, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r09", "m": 1, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r09", "m": 2, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s10-r09", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s10-r09", "m": 4, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r03", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r03", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r03", "m": 3, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s2-r03", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r05", "m": 1, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r05", "m": 2, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r05", "m": 3, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r05", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r06", "m": 1, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r06", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r06", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s2-r06", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s2-r07", "m": 1, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r07", "m": 2, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r07", "m": 3, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r07", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r08", "m": 1, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r08", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r08", "m": 3, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r08", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r09", "m": 1, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r09", "m": 2, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r09", "m": 3, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s2-r09", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r05", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r05", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r05", "m": 3, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r05", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r06", "m": 1, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r06", "m": 2, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r06", "m": 3, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r06", "m": 4, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r08", "m": 1, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r08", "m": 2, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r08", "m": 3, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r08", "m": 4, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r09", "m": 1, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r09", "m": 2, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r09", "m": 3, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r09", "m": 4, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r10", "m": 1, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s3-r10", "m": 2, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r10", "m": 3, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s3-r10", "m": 4, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s4-r03", "m": 1, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r03", "m": 2, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r03", "m": 3, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r03", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r05", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r05", "m": 2, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r05", "m": 3, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r05", "m": 4, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r07", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s4-r07", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r07", "m": 3, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s4-r07", "m": 4, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r02", "m": 1, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r02", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r02", "m": 3, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r02", "m": 4, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r06", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r06", "m": 2, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r06", "m": 3, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s5-r06", "m": 4, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r03", "m": 1, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r03", "m": 2, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r03", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r03", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r04", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r04", "m": 2, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r04", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r04", "m": 4, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s6-r08", "m": 1, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r08", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r08", "m": 3, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r08", "m": 4, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r10", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s6-r10", "m": 2, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r10", "m": 3, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s6-r10", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r04", "m": 1, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r04", "m": 2, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r04", "m": 3, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r04", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r05", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r05", "m": 2, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r05", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r05", "m": 4, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r07", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s7-r07", "m": 2, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r07", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r07", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s7-r08", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r08", "m": 2, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r08", "m": 3, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r08", "m": 4, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r10", "m": 1, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r10", "m": 2, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r10", "m": 3, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s7-r10", "m": 4, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r03", "m": 1, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r03", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r03", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r03", "m": 4, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s8-r04", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r04", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r04", "m": 3, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r04", "m": 4, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r09", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r09", "m": 2, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r09", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r09", "m": 4, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r10", "m": 1, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r10", "m": 2, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r10", "m": 3, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s8-r10", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s9-r03", "m": 1, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r03", "m": 2, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "covert-s9-r03", "m": 3, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r03", "m": 4, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r05", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r05", "m": 2, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r05", "m": 3, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r05", "m": 4, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r06", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r06", "m": 2, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r06", "m": 3, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r06", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r09", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r09", "m": 2, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r09", "m": 3, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "covert-s9-r09", "m": 4, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r02", "m": 1, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r02", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r02", "m": 3, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r02", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r03", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r03", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r03", "m": 3, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r03", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r06", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r06", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r06", "m": 3, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s1-r06", "m": 4, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r03", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r03", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r03", "m": 3, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r03", "m": 4, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r06", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r06", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r06", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r06", "m": 4, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r08", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r08", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r08", "m": 3, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r08", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r09", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r09", "m": 2, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r09", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s10-r09", "m": 4, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s2-r03", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r03", "m": 2, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r03", "m": 3, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r03", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r05", "m": 1, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r05", "m": 2, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r05", "m": 3, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r05", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r06", "m": 1, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r06", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r06", "m": 3, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r06", "m": 4, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r07", "m": 1, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r07", "m": 2, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r07", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r07", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r08", "m": 1, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s2-r08", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r08", "m": 3, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r08", "m": 4, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r09", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s2-r09", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s2-r09", "m": 3, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s2-r09", "m": 4, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r05", "m": 1, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r05", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r05", "m": 3, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r05", "m": 4, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r06", "m": 1, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r06", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r06", "m": 3, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r06", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r08", "m": 1, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r08", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r08", "m": 3, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r08", "m": 4, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r09", "m": 1, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r09", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r09", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s3-r09", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r10", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r10", "m": 2, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r10", "m": 3, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s3-r10", "m": 4, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r03", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r03", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r03", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r03", "m": 4, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r05", "m": 1, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r05", "m": 2, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r05", "m": 3, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r05", "m": 4, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r07", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r07", "m": 2, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r07", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s4-r07", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r02", "m": 1, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r02", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r02", "m": 3, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r02", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r06", "m": 1, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r06", "m": 2, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r06", "m": 3, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s5-r06", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r03", "m": 1, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r03", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s6-r03", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r03", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s6-r04", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r04", "m": 2, "message": "Seems the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s6-r04", "m": 3, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r04", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r08", "m": 1, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r08", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s6-r08", "m": 3, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r08", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r10", "m": 1, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r10", "m": 2, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r10", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s6-r10", "m": 4, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r04", "m": 1, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r04", "m": 2, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r04", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r04", "m": 4, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r05", "m": 1, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r05", "m": 2, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r05", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r05", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r07", "m": 1, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s7-r07", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r07", "m": 3, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r07", "m": 4, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r08", "m": 1, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r08", "m": 2, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r08", "m": 3, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r08", "m": 4, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r10", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r10", "m": 2, "message": "Looking back, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r10", "m": 3, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s7-r10", "m": 4, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r03", "m": 1, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r03", "m": 2, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s8-r03", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r03", "m": 4, "message": "Looks like the bid queue is thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r04", "m": 1, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r04", "m": 2, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r04", "m": 3, "message": "So far, trading has been orderly.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r04", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s8-r09", "m": 1, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r09", "m": 2, "message": "Looking at it since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r09", "m": 3, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r09", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r10", "m": 1, "message": "Looks like the gap between bids and asks is narrowing.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r10", "m": 2, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r10", "m": 3, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s8-r10", "m": 4, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r03", "m": 1, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s9-r03", "m": 2, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r03", "m": 3, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s9-r03", "m": 4, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r05", "m": 1, "message": "Since the open, the trade history has been easy to follow.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r05", "m": 2, "message": "Likely too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r05", "m": 3, "message": "Some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r05", "m": 4, "message": "Lately, some buyers seem more active than others this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r06", "m": 1, "message": "Sounds like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r06", "m": 2, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r06", "m": 3, "message": "So, the bid queue looks thin this hour.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": false}
+{"turn_id": "honest-s9-r06", "m": 4, "message": "Looks like a quiet hour on the exchange.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r09", "m": 1, "message": "Seemingly, buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r09", "m": 2, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r09", "m": 3, "message": "Still too early to read much into the last few trades.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
+{"turn_id": "honest-s9-r09", "m": 4, "message": "Looks as if buyers are taking their time today.", "empty": false, "invalid": false, "scripted": true, "differs_in_meaning": true}
